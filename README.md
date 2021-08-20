@@ -1,6 +1,6 @@
-# Vaccine For All Server
+# Stories Photography Server
 
-This project is about the server of Vaccine For All.
+This project is about the server of Stories Photography.
 
 ## Available Features
 
@@ -8,23 +8,23 @@ In the project, there are:
 
 ### Database Connection
 
-### Get Vaccines List
+### Get Service List
 
-### Get Reviews
+### Get Blogs
 
-### Get specific Vaccine
+### Get Specific Service
 
-### Add a Vaccine
+### Add a Service
 
-### Add Review
+### Add Blog
 
 ### Add Admin
 
 ### Check Admin
 
-### Delete Vaccine
+### Delete Service
 
-### Update Vaccine
+### Update Service
 
 ### Add Order
 
@@ -32,4 +32,4 @@ In the project, there are:
 
 
 ## Server Site
-Server Site Link: https://young-citadel-36577.herokuapp.com/
+Server Site Link: https://desolate-brushlands-75923.herokuapp.com/
